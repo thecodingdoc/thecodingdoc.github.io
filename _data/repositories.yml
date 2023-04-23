@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - thecodingdoc
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - thecodingdoc/easymifs
+  - thecodingdoc/sitehound
+  - thecodingdoc/canbind
+  - thecodingdoc/molblocks
+  - thecodingdoc/neep
+  - thecodingdoc/GOUtil
+  - thecodingdoc/SwarmTCR
