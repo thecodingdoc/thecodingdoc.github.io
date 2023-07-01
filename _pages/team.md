@@ -9,10 +9,12 @@ nav_order: 6
 
 **Current members:**
 
-- Ryan Ehrlich, Ph.D. Student
-- Kirk Gasper, Ph.D. Student (co-advised with Dr. Matteo Ligorio)
-- Austin Seamann, M.S. Student
-- Ishwor Thapa, Ph.D. Student
+- Maia Bennett-Boehm, M.S. student
+- Ryan Ehrlich, Ph.D. student
+- Kirk Gasper, Ph.D. student (co-advised with Dr. Matteo Ligorio)
+- Arne Klingenberg, M.S. student
+- Ishwor Thapa, Ph.D. student
+- Matthew Thiele, M.S. student
 
 
 **Alumni**
@@ -20,4 +22,5 @@ nav_order: 6
 - Ramakanth Chirravuri-Venkata, M.S.
 - Ryan Ehrlich, M.S.
 - Ryan Hagenson, M.S.
+- Austin Seamann, M.S.
 - Sahil Sethi, M.S.
