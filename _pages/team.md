@@ -10,9 +10,8 @@ nav_order: 6
 **Current members:**
 
 - Maia Bennett-Boehm, M.S. student
-- Ryan Ehrlich, Ph.D. student
 - Kirk Gasper, Ph.D. student (co-advised with Dr. Matteo Ligorio)
-- Arne Klingenberg, M.S. student
+- Anna Klingenberg, M.S. student
 - Ishwor Thapa, Ph.D. student
 - Matthew Thiele, M.S. student
 
@@ -21,6 +20,7 @@ nav_order: 6
 
 - Ramakanth Chirravuri-Venkata, M.S.
 - Ryan Ehrlich, M.S.
+- Ryan Ehrlich, Ph.D.
 - Ryan Hagenson, M.S.
 - Austin Seamann, M.S.
 - Sahil Sethi, M.S.
