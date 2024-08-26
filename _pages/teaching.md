@@ -24,6 +24,8 @@ From a computational perspective, I believe in the importance of "opening the bl
 
 **Courses taught at the University of Nebraska at Omaha:**
 
+-ACMP 4000: *Data Analysis and Machine Learning*
+
 -BIOI 1000: *Introduction to Bioinformatics*
 
 -BIOI 2000: *Foundations of Bioinformatics*
