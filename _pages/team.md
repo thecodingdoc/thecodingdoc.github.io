@@ -11,7 +11,7 @@ nav_order: 6
 
 - Maia Bennett-Boehm, M.S. student
 - Kirk Gasper, Ph.D. student (co-advised with Dr. Matteo Ligorio)
-- Anna Klingenberg, M.S. student
+- Grant Schneider, M.S. student
 - Ishwor Thapa, Ph.D. student
 - Matthew Thiele, M.S. student
 
@@ -22,5 +22,6 @@ nav_order: 6
 - Ryan Ehrlich, M.S.
 - Ryan Ehrlich, Ph.D.
 - Ryan Hagenson, M.S.
+- Anna Klingenberg, M.S.
 - Austin Seamann, M.S.
 - Sahil Sethi, M.S.
